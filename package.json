@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "testcafe chrome:headless tests/**/*.js",
+    "test": "testcafe chrome:headless -c 3 tests/**/*.js",
     "test-magma-api":"testcafe chrome:headless tests/magmaApi/**/*.js",
     "test-novacore-api":"testcafe chrome:headless tests/novacoreApi/**/*.js"
 
