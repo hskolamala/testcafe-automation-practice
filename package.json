@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kkolamala/testcafe-automation/issues"
   },
-  "homepage": "https://github.com/kkolamala/testcafe-automation#readme"
+  "homepage": "https://github.com/kkolamala/testcafe-automation#readme",
+  "dependencies": {
+    "testcafe": "^2.0.0"
+  }
 }
