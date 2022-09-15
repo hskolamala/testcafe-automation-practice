@@ -1,0 +1,3 @@
+steps:
+  - label: "Nova Core BVT Tests"
+    command: "npm i && npm test"
